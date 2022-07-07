@@ -13,8 +13,10 @@ Open Ur Terminal or CMD then copy & paste:
 
 # How To Use!
 open LeaDer-E.py then put UR E-mail and Password it's the only method right now to login
+
     username = "E-mail@Address.com"
     password = "Your Pretty Password Here"
+    
 Then u can Chose The Target Vedios you need, but u have choose the vedios that have more than 100 comment and past ther links here:
 
     Vid1 = ('https://www.tiktok.com/@to 100 commenters follow')
