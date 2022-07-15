@@ -1373,41 +1373,51 @@ time.sleep(30)
 
 #startup
 driver.get(Vid1)
+print ("Going to Vedio No.: [1]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid2)
+print ("Going to Vedio No.: [2]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid3)
+print ("Going to Vedio No.: [3]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid4)
+print ("Going to Vedio No.: [4]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid5)
+print ("Going to Vedio No.: [5]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid6)
+print ("Going to Vedio No.: [6]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid7)
+print ("Going to Vedio No.: [7]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid8)
+print ("Going to Vedio No.: [8]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid9)
+print ("Going to Vedio No.: [9]..")
 time.sleep(5)
 Followers()
 
 driver.get(Vid10)
+print ("Going to Vedio No.: [10]..")
 time.sleep(5)
 Followers()
