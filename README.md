@@ -11,6 +11,10 @@ Open Ur Terminal or CMD then copy & paste:
     pip install webdriver_manager
     pip3 install --upgrade requests
 
+if ther's some problems at windows Try:
+
+    py -m pip install selenium
+
 # How To Use!
 open LeaDer-E.py then put UR E-mail and Password it's the only method right now to login
 
