@@ -98,8 +98,3 @@ expected.
 
 # Vedio on youtube
 [![Watch the video](https://user-images.githubusercontent.com/99460904/179158938-e161db4b-c111-446a-ab21-0da683a6e8d2.png)](https://www.youtube.com/watch?v=opPRDQo3PA0)
-
-
-
-# Support
-<a href="https://www.buymeacoffee.com/LeaDer.E" target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
